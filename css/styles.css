@@ -1,0 +1,139 @@
+/*#wordList {
+  display: none;
+}*/
+#gameover {
+  display: none;
+  width: auto;
+  height: auto;
+}
+
+#hooray {
+  display: none;
+transform: rotate(25deg);
+  position: absolute;
+  left: 455px;
+  top: 70px;
+  z-index: 1;
+
+}
+
+#couch {
+  position: absolute;
+  left: 100px;
+  top: 250px;
+  width: 500px;
+  height:auto;
+  z-index:2;
+}
+.big {
+  position: absolute;
+  height: 150px;
+  width: auto;
+  top: 230px;
+  z-index: 3;
+}
+
+.medium {
+  position: absolute;
+  height: 110px;
+  width: auto;
+  top: 270px;
+  z-index: 3;
+}
+
+.small {
+  position: absolute;
+  height: 100px;
+  width: auto;
+  top: 275px;
+  z-index: 3;
+}
+
+
+#man1 {
+  display: none;
+  left: 150px;
+
+}
+#man2 {
+  display: none;
+  left: 240px;
+}
+#man3 {
+  display: none;
+  left: 310px;
+}
+#man4 {
+  display: none;
+  left: 375px;
+}
+#man5 {
+  display: none;
+  left: 450px;
+}
+
+#loose {
+  display: none;
+  position: absolute;
+  left: 170px;
+  top: 150px;
+  z-index: 4;
+}
+#winner {
+  display: none;
+  position: absolute;
+  height: 200px;
+  width: auto;
+  left: 490px;
+  top: 270px;
+  z-index: 5;
+}
+#perfect {
+  display: none;
+  position: absolute;
+  left: 250px;
+  top: 280px;
+  height: 100px;
+  width:auto;
+  z-index: 4;
+}
+
+#gameoverlogo {
+  display: none;
+  position: absolute;
+  left: 200px;
+  top: 400px;
+  height: 80px;
+  width:auto;
+  z-index: 5;
+}
+
+#haha {
+  display: none;
+  position: absolute;
+  left: 0px;
+  top: 260px;
+  height: 200px;
+  width:auto;
+  z-index: 6;
+}
+
+#title {
+  position: absolute;
+  left: 180px;
+  top: 70px;
+  height: 200px;
+  width:auto;
+}
+/*h1{
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}*/
+
+
+
+
+
+
